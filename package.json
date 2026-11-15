@@ -1,0 +1,25 @@
+{
+  "name": "github_actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inferno-0/Github_Actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inferno-0/Github_Actions/issues"
+  },
+  "homepage": "https://github.com/Inferno-0/Github_Actions#readme",
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "jest": "^30.5.2"
+  }
+}
